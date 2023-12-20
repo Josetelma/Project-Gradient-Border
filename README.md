@@ -6,4 +6,4 @@ With hover effect on hover.
 Developed first with the Mobile First methodology, then for desktop.</h2>
 <br>
 
-<img src="https://github.com/Josetelma/Project-Food-website/blob/main/assets/img/nb.JPG?raw=true"/></h2>
+<img src="https://github.com/Josetelma/Project-Gradient-Border/blob/main/assets/img/img.JPG?raw=true"/></h2>
